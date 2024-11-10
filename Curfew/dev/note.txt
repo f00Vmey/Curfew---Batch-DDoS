@@ -1,0 +1,3 @@
+Modify Curfew model in here then the other one, so you dont mess up the original. 
+If you decide to modify Curfew dev model and want to change the original then feel free
+to.
