@@ -5,5 +5,5 @@ Curfew is a batch tool used for DDoS and other internet tools. Curfew is also ve
     **Currently V1, so there probally will be more options soon.**
 
 Curfew is specialized in a more internet type hacking, and can be used to target certain areas or targets.
-This is <u>underlined text</u> in Markdown.
+  **Do NOT use this tool for un-ethical purposes, this tool was only made for cyber security.**
 
