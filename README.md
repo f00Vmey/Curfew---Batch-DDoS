@@ -14,3 +14,4 @@ Curfew is specialized in a more internet type hacking, and can be used to target
 
   *This tool is still being worked on and will get better in the future.*
 
+**NET STAT COMMAND IS CURRENTLY NOT WORKING AND IM WORKING ON FIXING IT.**
